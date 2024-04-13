@@ -41,6 +41,10 @@ font-style: normal;
     
 }
 
+.address-items {
+    font-style: normal
+}
+
 .nav-contacs-item {
     font-weight: 400;
     font-size: 16px;
