@@ -142,7 +142,11 @@ background-color: #FFFFFF;
     text-transform: capitalize
 }
 
-.section-taem h3 {
+.list-team-hum {
+    background-color: #FFFFFF
+}
+
+.section-taem-text {
 
         font-weight: 500;
         font-size: 20px;
@@ -152,8 +156,7 @@ background-color: #FFFFFF;
         color: #2E2F42;
 }
 
-.section-taem p {
-        
+.section-taem-about {
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
