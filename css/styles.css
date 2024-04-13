@@ -132,13 +132,14 @@ background-color: #FFFFFF;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.section-taem h2 {
+.section-taem-third {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
+    text-transform: capitalize
 }
 
 .section-taem h3 {
@@ -161,17 +162,17 @@ background-color: #FFFFFF;
 }
 
 
-
-.section-portfolio h2 {
-        font-weight: 700;
+.title-portfolio {
+    font-weight: 700;
         font-size: 36px;
         line-height: 111%;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2E2F42;
+        text-transform: capitalize
 }
 
-.section-portfolio h3 {
+.section-portfolio-text {
         font-weight: 500;
         font-size: 20px;
         line-height: 120%;
@@ -179,7 +180,7 @@ background-color: #FFFFFF;
         color: #2E2F42;
 }
 
-.section-portfolio p {
+.section-portfolio-paragraph {
 
         
         font-size: 16px;
