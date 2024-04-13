@@ -146,8 +146,11 @@ background-color: #FFFFFF;
     background-color: #FFFFFF
 }
 
-.section-taem-text {
+.list-team-one {
+    background-color: #FFFFFF
+}
 
+.section-taem-text {
         font-weight: 500;
         font-size: 20px;
         line-height: 120%;
